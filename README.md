@@ -1,0 +1,4 @@
+- WEB, JDBC, H2
+- application.properties
+  - spring.h2.console.enabled=true
+- http://127.0.0.1:8080/h2-console
